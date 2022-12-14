@@ -12,7 +12,7 @@ const Sidebar = () => {
           <span>
             <i class="ri-taxi-line"></i>
           </span>{" "}
-          UberX
+          Falls Car
         </h2>
       </div>
 
