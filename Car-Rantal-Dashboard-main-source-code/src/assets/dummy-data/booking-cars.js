@@ -68,9 +68,9 @@ const bookingCars = [
     category: "Carro Sedan Médio",
     carName: "Hyundai HB20s",
     type: "Grupo CA",
-    city: "Rio de Janeiro",
+    city: "São Paulo",
     rentPrice: 152.45,
-    imgUrl: car07,
+    imgUrl: car07,   
   },
   {
     id: "08",

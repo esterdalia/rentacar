@@ -1,7 +1,7 @@
 import React from "react";
 
 const CarItem = (props) => {
-  const { category, type, rentPrice, imgUrl, carName } = props.item;
+  const { category, type, rentPrice, imgUrl, carName,city } = props.item;
   return (
     <div className="car__item">
       <div className="car__item-top">
@@ -12,6 +12,8 @@ const CarItem = (props) => {
           </span>
         </div>
         <p>{category}</p>
+        <p>{city}</p>
+      
       </div>
 
       <div className="car__img-center">
