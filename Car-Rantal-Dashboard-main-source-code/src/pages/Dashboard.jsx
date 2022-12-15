@@ -1,7 +1,6 @@
 import React from "react";
 import "../styles/dashboard.css";
 import SingleCard from "../components/reuseable/SingleCard";
-
 import MileChart from "../charts/MileChart";
 import CarStatsChart from "../charts/CarStatsChart";
 
